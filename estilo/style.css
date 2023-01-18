@@ -157,7 +157,7 @@ main a:hover {
     color: var(--cor4);
 }
 
-a.externo::after { content: '\00A0\1F4E4';
+a.externo::after { content: '\00A0\1F517';
     padding-left: }
 
 img{
